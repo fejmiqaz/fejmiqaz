@@ -1,8 +1,8 @@
 ## 👋 Hello, I'm Fejmi Qazimi
 
-💻 Passionate about software development, databases, and modern technology solutions.  
+💻 Passionate about software development and modern technology solutions.  
 🚀 Focused on building practical projects and continuously improving problem-solving and engineering skills.  
-📚 Experienced with Java, Spring Boot, SQL, and full-stack development concepts.  
+📚 Experienced with Java, Spring Boot, Python, SQL, and full-stack development concepts.  
 🎯 Interested in software engineering, system design, and real-world application development.  
 
 📫 **Contact:** fejmiqaz@gmail.com  
