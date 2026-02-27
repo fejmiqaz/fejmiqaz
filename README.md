@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @fejmiqaz
-- 👀 I’m interested in technology, programming, engineering...
-- 🌱 I’m currently studying Software Engineering @ FCSE
-- 💞️ I’m looking to work and learn anything that will help me grow professionally
-- 📫 You can reach out to me via email fejmiqaz@gmail.com
-- ⚡ Fun fact: I enjoy rock music :)
+## 👋 Hello, I'm Fejmi Qazimi
+
+💻 Passionate about software development, databases, and modern technology solutions.  
+🚀 Focused on building practical projects and continuously improving problem-solving and engineering skills.  
+📚 Experienced with Java, Spring Boot, SQL, and full-stack development concepts.  
+🎯 Interested in software engineering, system design, and real-world application development.  
+
+📫 **Contact:** fejmiqaz@gmail.com  
+
+⚡ Outside of coding, I enjoy music, gaming, and exploring new tech.
 
 <!---
 fejmiqaz/fejmiqaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
